@@ -1,6 +1,10 @@
 # To-do list-react
 
-Description
+## Description:
+   This is a simple to-do list-react.
+
+## Demo: 
+   https://paupio.github.io/to-do-list-react/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

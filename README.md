@@ -6,7 +6,7 @@
 ## Demo: 
    https://paupio.github.io/to-do-list-react/
 
-   ![Alt text](screen.png)
+   ![image](https://github.com/Paupio/to-do-list-react/blob/main/public/screen.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

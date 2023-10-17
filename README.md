@@ -8,6 +8,15 @@
 
    ![image](https://github.com/Paupio/to-do-list-react/blob/main/public/screen.png)
 
+## Technologies:
+- BEM
+- CSS
+- Grid
+- Flex
+- HTML
+- JavaScript
+- React
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
